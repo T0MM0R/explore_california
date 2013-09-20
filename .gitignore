@@ -8,3 +8,5 @@ log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
+.gitignore
+nbproject/
